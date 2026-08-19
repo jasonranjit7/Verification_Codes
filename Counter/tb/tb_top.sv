@@ -1,5 +1,5 @@
-`include "interface.sv"
-`include "test.sv"
+`include "interfacaes/interface.sv"
+`include "test/test.sv"
 module testbench();
   
   bit clk;

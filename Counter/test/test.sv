@@ -1,4 +1,4 @@
-`include "environment.sv"
+`include "../env/environment.sv"
 program automatic test(intf intff);
   
   environment env;
